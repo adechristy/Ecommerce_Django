@@ -1,2 +1,2 @@
-# Ecommerce_Django
-Project Kel. I-1
+# ecommerce-django-project
+Belajar membuat ecommerce website dengan menggunaakan django dan python
